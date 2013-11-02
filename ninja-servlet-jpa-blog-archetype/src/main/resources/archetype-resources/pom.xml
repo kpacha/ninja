@@ -161,6 +161,12 @@
             <artifactId>ninja-servlet</artifactId>
             <version>${ninja.version}</version>
         </dependency>
+
+		<dependency>
+			<groupId>org.ninjaframework</groupId>
+			<artifactId>ninja-freemarker</artifactId>
+			<version>${ninja.version}</version>
+		</dependency>
         
         <dependency>
             <groupId>org.ninjaframework</groupId>
