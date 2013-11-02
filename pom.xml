@@ -35,6 +35,7 @@
 
 	<modules>
 		<module>ninja-core</module>
+		<module>ninja-freemarker</module>
 		<module>ninja-servlet</module>
         <module>ninja-standalone</module>
 		<module>ninja-test-utilities</module>
